@@ -2,62 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01f84532-ab4b-45a3-9e72-3a7aa937528e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/DiagonalStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/FlourPackProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/LargestPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/NumberToWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/PaintJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/carpetcostcalculate/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/carpetcostcalculate/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/complexoperations/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/complexoperations/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/cylinder/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/cylinder/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/cylinder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/person/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/person/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/point/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/point/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/poolarea/Cuboid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/poolarea/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/sumcalculator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/sumcalculator/SimpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/wallarea/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/wallarea/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/wallarea/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section6/wallarea/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Dimesions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/MotherBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Resolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/compositionchallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/compositionchallenge/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/encapasulationchallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/encapasulationchallenge/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/encapsulation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/encapsulation/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/oopmasterchallenge/AdditionalTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/oopmasterchallenge/DeluxBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/oopmasterchallenge/Hamburger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/oopmasterchallenge/HealthyBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/oopmasterchallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section7/polymorphismchallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/ArraySorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/GroceryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/ReverserArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/arraylistChallenge/Contacts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/arraylistChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section8/arraylistChallenge/MobilePhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section5/PerfectNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section5/PerfectNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Java-Programming-MasterClass.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section4/AreaCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section4/BarkingDog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section4/DecimalComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section4/EqualSumChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section4/EqualityPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section4/LeapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section4/MegaBytesConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section4/MinutesToYearsAndDays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section4/PlayingCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section4/SecondsAndMinutesChallenge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section4/SpeedConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section4/TeenNumberChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section5/AllFactors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section5/DayOfTheWeek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section5/DigitSumChallenge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section5/EvenDigitSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section5/FirstAndLastDigitSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section5/GreatestCommonDivisor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section5/LastDigitChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section5/NumberInWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section5/NumberOfDaysInMonth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section5/NumberPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section5/PerfectNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section5/SharedDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section5/Sum3And5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section5/SumOdd.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +83,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Application.Main (3)">
     <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -201,7 +174,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\akulkarni\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -223,7 +196,7 @@
       <workItem from="1580413024506" duration="4236000" />
       <workItem from="1580417289941" duration="54000" />
       <workItem from="1580417369153" duration="193000" />
-      <workItem from="1580417591204" duration="243000" />
+      <workItem from="1580417591204" duration="936000" />
     </task>
     <servers />
   </component>
@@ -288,20 +261,20 @@
       <screen x="1920" y="-143" width="1920" height="1160" />
     </state>
     <state width="1877" height="396" key="GridCell.Tab.1.right/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1579899401787" />
-    <state x="1827" y="-105" key="SettingsEditor" timestamp="1580417837430">
+    <state x="1827" y="-105" key="SettingsEditor" timestamp="1580418224519">
       <screen x="1366" y="-303" width="1920" height="1040" />
     </state>
     <state x="2381" y="78" key="SettingsEditor/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580335919116" />
-    <state x="1827" y="-105" key="SettingsEditor/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580417837430" />
+    <state x="1827" y="-105" key="SettingsEditor/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580418224519" />
     <state x="2586" y="64" key="refactoring.ChangeSignatureDialog" timestamp="1579700995550">
       <screen x="1920" y="-143" width="1920" height="1160" />
     </state>
     <state x="2586" y="64" key="refactoring.ChangeSignatureDialog/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1579700995550" />
-    <state x="1989" y="-74" width="672" height="608" key="search.everywhere.popup" timestamp="1580417851129">
+    <state x="1989" y="-74" width="672" height="608" key="search.everywhere.popup" timestamp="1580418165960">
       <screen x="1366" y="-303" width="1920" height="1040" />
     </state>
     <state x="623" y="229" width="672" height="608" key="search.everywhere.popup/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@0.0.1920.1040" timestamp="1579802106486" />
     <state x="2543" y="112" width="672" height="678" key="search.everywhere.popup/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1579705699704" />
-    <state x="1989" y="-74" width="672" height="608" key="search.everywhere.popup/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580417851129" />
+    <state x="1989" y="-74" width="672" height="608" key="search.everywhere.popup/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580418165960" />
   </component>
 </project>
