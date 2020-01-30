@@ -2,20 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01f84532-ab4b-45a3-9e72-3a7aa937528e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/AllFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/EvenDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/FirstAndLastDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/LastDigitChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section5/SharedDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section5/DiagonalStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section5/FlourPackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section5/LargestPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section5/NumberToWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section5/PaintJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/carpetcostcalculate/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/carpetcostcalculate/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/complexoperations/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/complexoperations/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/cylinder/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/cylinder/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/cylinder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/person/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/point/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/point/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/poolarea/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/poolarea/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/sumcalculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/sumcalculator/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/wallarea/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/wallarea/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/wallarea/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section6/wallarea/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Dimesions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/MotherBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/composition/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/compositionchallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/compositionchallenge/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/encapasulationchallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/encapasulationchallenge/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/encapsulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/encapsulation/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/oopmasterchallenge/AdditionalTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/oopmasterchallenge/DeluxBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/oopmasterchallenge/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/oopmasterchallenge/HealthyBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/oopmasterchallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section7/polymorphismchallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/ArraySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/ReverserArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/arraylistChallenge/Contacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/arraylistChallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/arraylistChallenge/MobilePhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section5/NumberPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section5/NumberPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/section5/PerfectNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/section5/PerfectNumber.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,6 +98,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../WICCONNECT_MS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -48,14 +110,15 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.PerfectNumber">
-    <configuration name="AllFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section5.AllFactors" />
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.ArraySorting" />
       <module name="Java-Programming-MasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section5.*" />
+          <option name="PATTERN" value="section8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreatestCommonDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section5.GreatestCommonDivisor" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section7.polymorphism.Main" />
       <module name="Java-Programming-MasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section5.*" />
+          <option name="PATTERN" value="section7.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastDigitChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section5.LastDigitChecker" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section7.oopmasterchallenge.Main" />
       <module name="Java-Programming-MasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section5.*" />
+          <option name="PATTERN" value="section7.oopmasterchallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section5.PerfectNumber" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.arraylistChallenge.Main" />
       <module name="Java-Programming-MasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section5.*" />
+          <option name="PATTERN" value="section8.arraylistChallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SharedDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section5.SharedDigit" />
+    <configuration name="ReverserArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.ReverserArray" />
       <module name="Java-Programming-MasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section5.*" />
+          <option name="PATTERN" value="section8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PerfectNumber" />
-        <item itemvalue="Application.AllFactors" />
-        <item itemvalue="Application.GreatestCommonDivisor" />
-        <item itemvalue="Application.LastDigitChecker" />
-        <item itemvalue="Application.SharedDigit" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.ReverserArray" />
+        <item itemvalue="Application.ArraySorting" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +212,18 @@
       <updated>1579631412925</updated>
       <workItem from="1579631417277" duration="7390000" />
       <workItem from="1579697823709" duration="8834000" />
-      <workItem from="1579721100561" duration="19459000" />
+      <workItem from="1579721100561" duration="19862000" />
+      <workItem from="1579802077601" duration="8333000" />
+      <workItem from="1579889006407" duration="8831000" />
+      <workItem from="1580130539054" duration="20523000" />
+      <workItem from="1580301445074" duration="7278000" />
+      <workItem from="1580313781404" duration="108000" />
+      <workItem from="1580317257049" duration="7126000" />
+      <workItem from="1580387216226" duration="11065000" />
+      <workItem from="1580413024506" duration="4236000" />
+      <workItem from="1580417289941" duration="54000" />
+      <workItem from="1580417369153" duration="193000" />
+      <workItem from="1580417591204" duration="243000" />
     </task>
     <servers />
   </component>
@@ -157,33 +231,77 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="436" key="GridCell.Tab.0.bottom" timestamp="1579792613870">
+    <state x="1918" y="-126" key="#Notifications" timestamp="1580417456329">
+      <screen x="1366" y="-303" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="-126" key="#Notifications/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580417456329" />
+    <state x="1918" y="-126" key="#Plugins" timestamp="1580417718687">
+      <screen x="1366" y="-303" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="-126" key="#Plugins/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580417718687" />
+    <state x="2131" y="-67" key="#com.intellij.ide.util.MemberChooser" timestamp="1580413590226">
+      <screen x="1366" y="-303" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="120" key="#com.intellij.ide.util.MemberChooser/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580397242322" />
+    <state x="2131" y="-67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580413590226" />
+    <state x="479" y="222" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580318590116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="222" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1580318590116" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1580416953039">
+      <screen x="1366" y="-303" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@0.0.1920.1040" timestamp="1579810092498" />
+    <state width="1877" height="430" key="GridCell.Tab.0.bottom/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580398692242" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580416953039" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1580416953039">
+      <screen x="1366" y="-303" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.center/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@0.0.1920.1040" timestamp="1579810092498" />
+    <state width="1877" height="430" key="GridCell.Tab.0.center/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580398692242" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580416953039" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1580416953039">
+      <screen x="1366" y="-303" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.left/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@0.0.1920.1040" timestamp="1579810092498" />
+    <state width="1877" height="430" key="GridCell.Tab.0.left/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580398692242" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580416953039" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1580416953039">
+      <screen x="1366" y="-303" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.right/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@0.0.1920.1040" timestamp="1579810092498" />
+    <state width="1877" height="430" key="GridCell.Tab.0.right/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580398692242" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580416953039" />
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1579899401787">
       <screen x="1920" y="-143" width="1920" height="1160" />
     </state>
-    <state width="1877" height="360" key="GridCell.Tab.0.bottom/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@0.0.1920.1040" timestamp="1579731037458" />
-    <state width="1877" height="436" key="GridCell.Tab.0.bottom/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1579792613870" />
-    <state width="1877" height="436" key="GridCell.Tab.0.center" timestamp="1579792613870">
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1579899401787" />
+    <state width="1877" height="396" key="GridCell.Tab.1.center" timestamp="1579899401787">
       <screen x="1920" y="-143" width="1920" height="1160" />
     </state>
-    <state width="1877" height="360" key="GridCell.Tab.0.center/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@0.0.1920.1040" timestamp="1579731037458" />
-    <state width="1877" height="436" key="GridCell.Tab.0.center/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1579792613870" />
-    <state width="1877" height="436" key="GridCell.Tab.0.left" timestamp="1579792613870">
+    <state width="1877" height="396" key="GridCell.Tab.1.center/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1579899401787" />
+    <state width="1877" height="396" key="GridCell.Tab.1.left" timestamp="1579899401787">
       <screen x="1920" y="-143" width="1920" height="1160" />
     </state>
-    <state width="1877" height="360" key="GridCell.Tab.0.left/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@0.0.1920.1040" timestamp="1579731037458" />
-    <state width="1877" height="436" key="GridCell.Tab.0.left/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1579792613870" />
-    <state width="1877" height="436" key="GridCell.Tab.0.right" timestamp="1579792613870">
+    <state width="1877" height="396" key="GridCell.Tab.1.left/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1579899401787" />
+    <state width="1877" height="396" key="GridCell.Tab.1.right" timestamp="1579899401787">
       <screen x="1920" y="-143" width="1920" height="1160" />
     </state>
-    <state width="1877" height="360" key="GridCell.Tab.0.right/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@0.0.1920.1040" timestamp="1579731037458" />
-    <state width="1877" height="436" key="GridCell.Tab.0.right/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1579792613870" />
+    <state width="1877" height="396" key="GridCell.Tab.1.right/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1579899401787" />
+    <state x="1827" y="-105" key="SettingsEditor" timestamp="1580417837430">
+      <screen x="1366" y="-303" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="78" key="SettingsEditor/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580335919116" />
+    <state x="1827" y="-105" key="SettingsEditor/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580417837430" />
     <state x="2586" y="64" key="refactoring.ChangeSignatureDialog" timestamp="1579700995550">
       <screen x="1920" y="-143" width="1920" height="1160" />
     </state>
     <state x="2586" y="64" key="refactoring.ChangeSignatureDialog/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1579700995550" />
-    <state x="2543" y="112" width="672" height="678" key="search.everywhere.popup" timestamp="1579705699704">
-      <screen x="1920" y="-143" width="1920" height="1160" />
+    <state x="1989" y="-74" width="672" height="608" key="search.everywhere.popup" timestamp="1580417851129">
+      <screen x="1366" y="-303" width="1920" height="1040" />
     </state>
+    <state x="623" y="229" width="672" height="608" key="search.everywhere.popup/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@0.0.1920.1040" timestamp="1579802106486" />
     <state x="2543" y="112" width="672" height="678" key="search.everywhere.popup/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1579705699704" />
+    <state x="1989" y="-74" width="672" height="608" key="search.everywhere.popup/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580417851129" />
   </component>
 </project>
