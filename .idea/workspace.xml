@@ -2,35 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01f84532-ab4b-45a3-9e72-3a7aa937528e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/section12/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section12/Theater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/AutoBoxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/linkedlist/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/linkedlist/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/linkedlist/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/linkedlist/linkedlistchallenge/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/linkedlist/linkedlistchallenge/LinkedListChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/linkedlist/linkedlistchallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section8/linkedlist/linkedlistchallenge/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section9/DeskPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section9/ITelephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section9/MobilePhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Java-Programming-MasterClass.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section4/AreaCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section4/BarkingDog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section4/DecimalComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section4/EqualSumChecker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section4/EqualityPrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section4/LeapYear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section4/MegaBytesConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section4/MinutesToYearsAndDays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section4/PlayingCat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section4/SecondsAndMinutesChallenge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section4/SpeedConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section4/TeenNumberChecker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section5/AllFactors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section5/DayOfTheWeek.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section5/DigitSumChallenge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section5/EvenDigitSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section5/FirstAndLastDigitSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section5/GreatestCommonDivisor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section5/LastDigitChecker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section5/NumberInWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section5/NumberOfDaysInMonth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section5/NumberPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section5/PerfectNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section5/SharedDigit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section5/Sum3And5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/section5/SumOdd.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +40,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -83,15 +70,28 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section8.ArraySorting" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="AutoBoxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.AutoBoxing" />
       <module name="Java-Programming-MasterClass" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="section8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.linkedlist.Demo" />
+      <module name="Java-Programming-MasterClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section8.linkedlist.linkedlistchallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +100,11 @@
       </method>
     </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section7.polymorphism.Main" />
+      <option name="MAIN_CLASS_NAME" value="section8.linkedlist.linkedlistchallenge.Main" />
       <module name="Java-Programming-MasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section7.polymorphism.*" />
+          <option name="PATTERN" value="section8.linkedlist.linkedlistchallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section7.oopmasterchallenge.Main" />
+      <option name="MAIN_CLASS_NAME" value="section9.Main" />
       <module name="Java-Programming-MasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section7.oopmasterchallenge.*" />
+          <option name="PATTERN" value="section9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,25 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section8.arraylistChallenge.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.linkedlist.Main" />
       <module name="Java-Programming-MasterClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section8.arraylistChallenge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverserArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section8.ReverserArray" />
-      <module name="Java-Programming-MasterClass" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section8.*" />
+          <option name="PATTERN" value="section8.linkedlist.linkedlistchallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.ReverserArray" />
-        <item itemvalue="Application.ArraySorting" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AutoBoxing" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +183,9 @@
       <workItem from="1580413024506" duration="4236000" />
       <workItem from="1580417289941" duration="54000" />
       <workItem from="1580417369153" duration="193000" />
-      <workItem from="1580417591204" duration="936000" />
+      <workItem from="1580417591204" duration="2986000" />
+      <workItem from="1580420730443" duration="11424000" />
+      <workItem from="1580486146023" duration="5920000" />
     </task>
     <servers />
   </component>
@@ -204,47 +193,47 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1918" y="-126" key="#Notifications" timestamp="1580417456329">
+    <state x="1918" y="-126" key="#Notifications" timestamp="1580420677426">
       <screen x="1366" y="-303" width="1920" height="1040" />
     </state>
-    <state x="1918" y="-126" key="#Notifications/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580417456329" />
+    <state x="1918" y="-126" key="#Notifications/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580420677426" />
     <state x="1918" y="-126" key="#Plugins" timestamp="1580417718687">
       <screen x="1366" y="-303" width="1920" height="1040" />
     </state>
     <state x="1918" y="-126" key="#Plugins/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580417718687" />
-    <state x="2131" y="-67" key="#com.intellij.ide.util.MemberChooser" timestamp="1580413590226">
-      <screen x="1366" y="-303" width="1920" height="1040" />
+    <state x="2685" y="120" key="#com.intellij.ide.util.MemberChooser" timestamp="1580502896284">
+      <screen x="1920" y="-143" width="1920" height="1160" />
     </state>
-    <state x="2685" y="120" key="#com.intellij.ide.util.MemberChooser/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580397242322" />
-    <state x="2131" y="-67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580413590226" />
+    <state x="2685" y="120" key="#com.intellij.ide.util.MemberChooser/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580502896284" />
+    <state x="2131" y="-67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580419806751" />
     <state x="479" y="222" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580318590116">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="222" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1580318590116" />
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1580416953039">
-      <screen x="1366" y="-303" width="1920" height="1040" />
+    <state width="938" height="232" key="GridCell.Tab.0.bottom" timestamp="1580504450787">
+      <screen x="1920" y="-143" width="1920" height="1160" />
     </state>
     <state width="1877" height="347" key="GridCell.Tab.0.bottom/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@0.0.1920.1040" timestamp="1579810092498" />
-    <state width="1877" height="430" key="GridCell.Tab.0.bottom/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580398692242" />
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580416953039" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1580416953039">
-      <screen x="1366" y="-303" width="1920" height="1040" />
+    <state width="938" height="232" key="GridCell.Tab.0.bottom/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580504450787" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580420692301" />
+    <state width="938" height="232" key="GridCell.Tab.0.center" timestamp="1580504450787">
+      <screen x="1920" y="-143" width="1920" height="1160" />
     </state>
     <state width="1877" height="347" key="GridCell.Tab.0.center/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@0.0.1920.1040" timestamp="1579810092498" />
-    <state width="1877" height="430" key="GridCell.Tab.0.center/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580398692242" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580416953039" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1580416953039">
-      <screen x="1366" y="-303" width="1920" height="1040" />
+    <state width="938" height="232" key="GridCell.Tab.0.center/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580504450787" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580420692301" />
+    <state width="938" height="232" key="GridCell.Tab.0.left" timestamp="1580504450787">
+      <screen x="1920" y="-143" width="1920" height="1160" />
     </state>
     <state width="1877" height="347" key="GridCell.Tab.0.left/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@0.0.1920.1040" timestamp="1579810092498" />
-    <state width="1877" height="430" key="GridCell.Tab.0.left/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580398692242" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580416953039" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1580416953039">
-      <screen x="1366" y="-303" width="1920" height="1040" />
+    <state width="938" height="232" key="GridCell.Tab.0.left/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580504450787" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580420692301" />
+    <state width="938" height="232" key="GridCell.Tab.0.right" timestamp="1580504450787">
+      <screen x="1920" y="-143" width="1920" height="1160" />
     </state>
     <state width="1877" height="347" key="GridCell.Tab.0.right/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@0.0.1920.1040" timestamp="1579810092498" />
-    <state width="1877" height="430" key="GridCell.Tab.0.right/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580398692242" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580416953039" />
+    <state width="938" height="232" key="GridCell.Tab.0.right/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580504450787" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580420692301" />
     <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1579899401787">
       <screen x="1920" y="-143" width="1920" height="1160" />
     </state>
@@ -261,20 +250,24 @@
       <screen x="1920" y="-143" width="1920" height="1160" />
     </state>
     <state width="1877" height="396" key="GridCell.Tab.1.right/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1579899401787" />
-    <state x="1827" y="-105" key="SettingsEditor" timestamp="1580418224519">
-      <screen x="1366" y="-303" width="1920" height="1040" />
+    <state x="2381" y="78" key="SettingsEditor" timestamp="1580488357064">
+      <screen x="1920" y="-143" width="1920" height="1160" />
     </state>
-    <state x="2381" y="78" key="SettingsEditor/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580335919116" />
-    <state x="1827" y="-105" key="SettingsEditor/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580418224519" />
+    <state x="2381" y="78" key="SettingsEditor/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580488357064" />
+    <state x="1769" y="-155" key="SettingsEditor/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580419748490" />
+    <state x="2651" y="139" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580502479034">
+      <screen x="1920" y="-143" width="1920" height="1160" />
+    </state>
+    <state x="2651" y="139" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1580502479034" />
     <state x="2586" y="64" key="refactoring.ChangeSignatureDialog" timestamp="1579700995550">
       <screen x="1920" y="-143" width="1920" height="1160" />
     </state>
     <state x="2586" y="64" key="refactoring.ChangeSignatureDialog/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1579700995550" />
-    <state x="1989" y="-74" width="672" height="608" key="search.everywhere.popup" timestamp="1580418165960">
+    <state x="1989" y="-74" width="672" height="608" key="search.everywhere.popup" timestamp="1580419699198">
       <screen x="1366" y="-303" width="1920" height="1040" />
     </state>
     <state x="623" y="229" width="672" height="608" key="search.everywhere.popup/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@0.0.1920.1040" timestamp="1579802106486" />
     <state x="2543" y="112" width="672" height="678" key="search.everywhere.popup/-1366.296.1366.728/0.0.1920.1040/1920.-143.1920.1160@1920.-143.1920.1160" timestamp="1579705699704" />
-    <state x="1989" y="-74" width="672" height="608" key="search.everywhere.popup/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580418165960" />
+    <state x="1989" y="-74" width="672" height="608" key="search.everywhere.popup/0.0.1366.728/1366.-303.1920.1040@1366.-303.1920.1040" timestamp="1580419699198" />
   </component>
 </project>
