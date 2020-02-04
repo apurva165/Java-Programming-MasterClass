@@ -69,7 +69,7 @@ class Forgetable extends Movie {
 
 public class Main {
     public static void main(String[] args) {
-        for (int i= 1; i < 11; i++){
+        for (int i = 1; i < 11; i++) {
             Movie movie = randomMovie();
             System.out.println("Name of the movie  = : " + movie.getName());
             System.out.println("plot of the movie  = : " + movie.plot());
@@ -77,13 +77,13 @@ public class Main {
 
     }
 
-    private static Movie randomMovie(){
-       int randomNumber = (int) (Math.random() * 5) + 1;
+    private static Movie randomMovie() {
+        int randomNumber = (int) (Math.random() * 5) + 1;
         System.out.println(randomNumber + " : randomNumber");
-        switch (randomNumber){
-            case 1 :
+        switch (randomNumber) {
+            case 1:
                 return new Jaws();
-            case 2 :
+            case 2:
                 return new IndependenceDay();
             case 3:
                 return new MazeRunner();
