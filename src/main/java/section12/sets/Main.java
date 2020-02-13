@@ -10,18 +10,18 @@ class Main {
     private static Set<HeavenlyBody> planets = new HashSet<>();
 
     public static void main(String[] args) {
-        HeavenlyBody temp = new HeavenlyBody("Mercury" ,88.0 );
+        HeavenlyBody temp = new Planet("Mercury" ,88.0 );
         solarSystem.put(temp.getName() , temp);
         planets.add(temp);
 
-        temp = new HeavenlyBody("Earth" ,365.0 );
+        temp = new Planet("Earth" ,365.0 );
         solarSystem.put(temp.getName() , temp);
         planets.add(temp);
 
 
-        HeavenlyBody moon = new HeavenlyBody("moon", 27.0);
+        HeavenlyBody moon = new Moon("moon", 27.0);
         solarSystem.put(moon.getName(), moon);
-        temp.addMoon(moon);
+        temp.addSatellite(moon);
 
         System.out.println("Planets");
         for (HeavenlyBody heavenlyBody : planets){
@@ -39,7 +39,7 @@ class Main {
             System.out.println(moon1.getName());
         }
 
-        HeavenlyBody pluto = new HeavenlyBody("pluto", 888.0);
+        HeavenlyBody pluto = new Planet("pluto", 888.0);
         planets.add(pluto);
 
         Object o = new Object();

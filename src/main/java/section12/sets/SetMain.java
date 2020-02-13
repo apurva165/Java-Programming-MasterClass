@@ -2,7 +2,6 @@ package section12.sets;
 
 import java.util.Arrays;
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.Set;
 
 public class SetMain {
@@ -30,19 +29,19 @@ public class SetMain {
         Set<String> words = new HashSet<>();
         String sentence = "One two three four One";
 
-        String [] arrayWords = sentence.split(" ");
+        String[] arrayWords = sentence.split(" ");
         words.addAll(Arrays.asList(arrayWords));
 
-        for(String s : words){
+        for (String s : words) {
             System.out.println(s);
         }
 
         Set<String> nature = new HashSet<>();
         Set<String> divine = new HashSet<>();
 
-        String [] arrayWordsNature = {"sdf", " "};
+        String[] arrayWordsNature = {"sdf", " "};
         nature.addAll(Arrays.asList(arrayWordsNature));
-        String [] arrayWordsDivine = {"sdf", " "};
+        String[] arrayWordsDivine = {"sdf", " "};
         divine.addAll(Arrays.asList(arrayWordsDivine));
 
 
@@ -70,7 +69,6 @@ public class SetMain {
 //        nature.retainAll(divine);
 //
 //        divine.retainAll(nature);
-
 
 
 //        Iterator<Integer> i = intersection.iterator();
