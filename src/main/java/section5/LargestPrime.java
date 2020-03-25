@@ -17,7 +17,8 @@ public class LargestPrime {
             if (number % i == 0) {
 
                 number = number / i;
-                i--;
+               i = i -1;
+                System.out.println(i);
             }
         }
         System.out.println(i);

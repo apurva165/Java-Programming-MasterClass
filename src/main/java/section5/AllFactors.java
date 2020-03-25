@@ -2,7 +2,7 @@ package section5;
 
 public class AllFactors {
     public static void main(String[] args) {
-    printFactors(10);
+   // printFactors(10);
     }
     public static void printFactors(int num){
         if(num < 1){
@@ -14,4 +14,5 @@ public class AllFactors {
             }
         }
     }
+
 }
